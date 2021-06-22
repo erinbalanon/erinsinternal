@@ -94,6 +94,7 @@ button{
     margin: 10px 15px;
     background-position: center;
     background-size: cover;
+    transition: transform 0.5;
 }
 
 .card1{
@@ -112,3 +113,6 @@ button{
     background-image: url(images/kinesthetic.jpg);
 }
 
+.card:hover{
+    transform: translateY(-10px);
+}
