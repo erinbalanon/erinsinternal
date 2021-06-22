@@ -92,7 +92,23 @@ button{
     box-sizing: border-box;
     cursor: pointer;
     margin: 10px 15px;
-    background-image: url(images/visual.jpg);
     background-position: center;
     background-size: cover;
 }
+
+card1{
+    background-image: url(images/visual.jpg);
+}
+
+card2{
+    background-image: url(images/aural.jpg);
+}
+
+card3{
+    background-image: url(images/reading.jpg);
+}
+
+card4{
+    background-image: url(images/kinesthetic.jpg);
+}
+
