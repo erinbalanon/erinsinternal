@@ -96,19 +96,19 @@ button{
     background-size: cover;
 }
 
-card1{
+.card1{
     background-image: url(images/visual.jpg);
 }
 
-card2{
+.card2{
     background-image: url(images/aural.jpg);
 }
 
-card3{
+.card3{
     background-image: url(images/reading.jpg);
 }
 
-card4{
+.card4{
     background-image: url(images/kinesthetic.jpg);
 }
 
