@@ -81,6 +81,13 @@ button{
     border-radius: 20px;
     outline: none;
     margin-top: 30px;
+    transition-duration: 0.4s;
+}
+
+button:hover{
+    background-color: #808080;
+    color: #fff;
+
 }
 
 .card{
@@ -120,4 +127,9 @@ button{
 h5{
     color: #fff;
     text-shadow: 0 0 5px #999;
+}
+
+.card p{
+    text-shadow: 0 0 15px #000;
+    font-size: ;
 }
