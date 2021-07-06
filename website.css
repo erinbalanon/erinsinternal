@@ -106,27 +106,22 @@ button:hover{
 
 .card1{
     background-image: url(images/visual.jpg);
-    filter: opacity(30%);
 }
 
 .card2{
     background-image: url(images/aural.jpg);
-    filter: opacity(30%);
-}
 
 .card3{
     background-image: url(images/reading.jpg);
-    filter: opacity(30%);
 }
 
 .card4{
     background-image: url(images/kinesthetic.jpg);
-    filter: opacity(30%);
 }
 
 .card:hover{
     transform: translateY(-10px);
-    filter: opacity(0%);
+    filter: opacity(30%);
 }
 
 h5{
