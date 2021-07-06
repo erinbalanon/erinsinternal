@@ -106,6 +106,7 @@ button:hover{
 
 .card1{
     background-image: url(images/visual.jpg);
+    filter: opacity(30%);
 }
 
 .card2{
