@@ -54,6 +54,7 @@ nav ul li:hover{
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+}
 
 .headertext {
         text-align: center;
