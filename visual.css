@@ -63,4 +63,5 @@ nav ul li:hover{
         left: 50%;
         transform: translate(-50%, -50%);
         color: white;
+        font-size: 25px;
  }
