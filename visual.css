@@ -51,6 +51,7 @@ nav ul li:hover{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/visualpage.jpg");
     height: 50%;
     background-position: center;
+    border-radius: 25px;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -66,4 +67,8 @@ nav ul li:hover{
         font-size: 25px;
  }
 
- 
+ p {
+    color: #696969;
+    font-size: 20px;
+    line-height: 15px
+ }
