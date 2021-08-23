@@ -45,3 +45,19 @@ nav ul li a{
 
 nav ul li:hover{
     border-bottom: 2px solid #696969;
+
+
+.column{
+        flex-basis: 50%;
+}
+    
+ h1{
+        color: #696969;
+        font-size: 80px;
+}
+    
+ p{
+        color:  #696969;
+        font-size: 15px;
+        line-height: 15px;
+}
