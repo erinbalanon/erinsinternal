@@ -48,7 +48,7 @@ nav ul li:hover{
 }
 
 .headerimage {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/auralpage.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/writingpage.jpg");
     height: 50%;
     background-position: center;
     border-radius: 25px;
