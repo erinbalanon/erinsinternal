@@ -27,12 +27,6 @@
     cursor: pointer;
 }
 
-.menu-icon{
-    width: 30px;
-    cursor: pointer;
-    margin-left: 40px;
-}
-
 nav{
     flex: 1;
     text-align: right;
