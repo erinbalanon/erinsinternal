@@ -134,6 +134,8 @@ a {
 
 h5{
     color: #fff;
-    text-shadow: 0 0 5px #999;
+    text-shadow: 0 0 5px black;
+    font-size: 20px;
+    text-align: center;
 }
 
