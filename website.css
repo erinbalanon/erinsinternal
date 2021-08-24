@@ -88,6 +88,10 @@ button:hover{
 
 }
 
+a {
+    text-decoration: none;
+}
+
 .card{
     width: 200px;
     height: 230px; 
