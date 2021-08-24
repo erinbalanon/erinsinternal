@@ -66,3 +66,7 @@ nav ul li:hover{
     font-size: 20px;
     line-height: 30px
  }
+
+img {
+    border-radius: 25px;
+ }
