@@ -65,7 +65,7 @@ h1{
 
 p{
     color: #fff;
-    font-size: 20px;
+    font-size: 15px;
     line-height: 30px;
 }
 
@@ -134,7 +134,7 @@ a {
 
 h5{
     color: #fff;
-    text-shadow: 0 0 5px white;
+    text-shadow: 0 0 5px black;
     font-size: 20px;
     text-align: centre;
 }
