@@ -65,7 +65,7 @@ h1{
 
 p{
     color: #fff;
-    font-size: 15px;
+    font-size: 20px;
     line-height: 30px;
 }
 
@@ -105,7 +105,6 @@ a {
     background-position: center;
     background-size: cover;
     transition: transform 0.5;
-    text-decoration: none;
 }
 
 .card1{
