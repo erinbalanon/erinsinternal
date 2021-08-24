@@ -70,3 +70,10 @@ nav ul li:hover{
 img {
     border-radius: 25px;
  }
+
+.text {
+    color: #696969;
+    font-size: 20px;
+    float: right;
+    line-height: 30px;
+ }
