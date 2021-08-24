@@ -100,6 +100,7 @@ button:hover{
     background-position: center;
     background-size: cover;
     transition: transform 0.5;
+    text-decoration: none;
 }
 
 .card1{
@@ -133,6 +134,3 @@ h5{
     font-size: 15px;
 }
 
-a {
-  text-decoration: none;
-}
