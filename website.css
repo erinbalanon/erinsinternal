@@ -105,18 +105,22 @@ button:hover{
 
 .card1{
     background-image: url(images/visual.jpg);
+    text-decoration: none;
 }
 
 .card2{
     background-image: url(images/aural.jpg);
+    text-decoration: none;
 }
 
 .card3{
     background-image: url(images/reading.jpg);
+    text-decoration: none;
 }
 
 .card4{
     background-image: url(images/kinesthetic.jpg);
+    text-decoration: none;
 }
 
 .card:hover{
