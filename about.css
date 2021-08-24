@@ -46,3 +46,23 @@ nav ul li a{
 nav ul li:hover{
     border-bottom: 2px solid #696969;
 }
+
+ h1{
+    color: #696969;
+    font-size: 50px;
+    line-height: 30px;
+    text-align: center;  
+ }
+
+ h2 {
+    color: #696969;
+    font-size: 30px;
+    line-height: 30px
+ }
+
+
+ p {
+    color: #696969;
+    font-size: 20px;
+    line-height: 30px
+ }
