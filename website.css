@@ -65,7 +65,7 @@ h1{
 
 p{
     color: #fff;
-    font-size: 20px;
+    font-size: 15px;
     line-height: 30px;
 }
 
@@ -130,10 +130,6 @@ a {
 .card:hover{
     transform: translateY(-10px);
     filter: opacity(20%);
-}
-
-a {
-  text-decoration: none;
 }
 
 h5{
