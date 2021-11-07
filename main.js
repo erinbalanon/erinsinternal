@@ -1,14 +1,4 @@
-//Set of questions and answers 
-//Give each answer an identifier 
-//Each identifier will increase through each question
-//St the end the identifier with the highest number is the winner 
-//Display the answer and rest the quiz
-
-//pass results frm previous question to the next page usig localcache
-
-//Randomise the background of the quiz for each questiion
-
-//Possible - Learning types
+//Learning types
 // 9 = reading/writing
 // 10 - 18 = aural
 // 19 - 27 = visual 
