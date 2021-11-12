@@ -13,8 +13,7 @@ html {
     font-weight: 100;
     line-height: 1.7rem;
     background: no-repeat linear-gradient(180deg, #ece4dc, #929775);
-    overflow-y: hidden;
-    overflow-x: hidden;
+  
   }
   .quiz-container {
     align-items: center;
